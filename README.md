@@ -1,4 +1,3 @@
-[![MasterHead](https://i.makeagif.com/media/9-02-2016/PYYfiF.gif)](https://i.makeagif.com/media/9-02-2016/PYYfiF.gif)
 
 <h1 align="center">Hi, I'm Zoran</h1>
 <h3 align="center">Builder, Creator, Engineer.</h3>
