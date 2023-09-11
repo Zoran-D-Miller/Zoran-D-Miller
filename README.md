@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **zoran.d.miller@gmail.com**
 
-- ⚡ Fun fact **Technically, we have 3 minutes to live, but the clock restarts every-time we breathe**
+- ⚡ Fun fact **You can't look at a word without reading it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
