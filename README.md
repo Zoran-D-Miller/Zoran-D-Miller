@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Zoran</h1>
+<h1 align="center">Hi, I'm Ƶoran</h1>
 <h3 align="center">Builder, Creator, Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
