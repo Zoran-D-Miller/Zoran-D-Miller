@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/zoran_d_m" target="blank"><img src="https://img.shields.io/twitter/follow/zoran_d_m?logo=twitter&style=for-the-badge" alt="zoran_d_m" /></a> </p>
 
-- 📫 How to reach me **zoran.d.miller@gmail.com**
+- 📫 How to reach me: **zoran.d.miller@gmail.com**
 
-- ⚡ Fun fact **You can't look at a word without reading it**
+- ⚡ Fun fact: **You can't look at a word without reading it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
