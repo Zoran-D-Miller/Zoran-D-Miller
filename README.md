@@ -1,6 +1,6 @@
 
 <h1 align="center">I am Ƶoran</h1>
-<h3 align="center">Builder, Creator, Engineer.</h3>
+<h3 align="center">Creator, Designer, Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
