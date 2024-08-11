@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/zoran_d_m" target="blank"><img src="https://img.shields.io/twitter/follow/zoran_d_m?logo=twitter&style=for-the-badge" alt="zoran_d_m" /></a> </p>
 
-- 📫 How to reach me: **zoran.d.miller@gmail.com**
+- 📫 How to reach me: **https://linktr.ee/z.d.m**
 
 - ⚡ Fun fact: **You can't look at a word without reading it**
 
