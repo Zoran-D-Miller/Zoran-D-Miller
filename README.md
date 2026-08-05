@@ -34,15 +34,13 @@ I build **AI-native products and automation systems that ship fast** — bridgin
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 
-<h6 align="left"><code>03 — SIGNALS</code></h6>
+<h6 align="left"><code>03 — SELECTED WORK</code></h6>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoran-d-miller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0B" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoran-d-miller&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0A0A0B" alt="top languages"/>
-</p>
+- **[Project_1](https://github.com/Zoran-D-Miller/Project_1)** — QR-code paper wallet generator for BTC. `JavaScript`
+- **[5sFindr](https://github.com/Zoran-D-Miller/5sFindr)** — TypeScript web app. `TypeScript`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zoran-d-miller&theme=tokyonight&hide_border=true&background=0A0A0B" alt="streak stats"/>
-</p>
+<sub>More shipping soon — AI automation systems and a Next.js + Convex starter template.</sub>
+
+<br/>
 
 <p align="center"><code>SPEED IS THE ADVANTAGE — LET'S BUILD.</code></p>
